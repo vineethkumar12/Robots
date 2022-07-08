@@ -1,0 +1,19 @@
+.r{
+ 
+ width: 70%; 
+ height: 12vw;
+ object-fit: cover;  
+ margin-left: 15%;
+ margin-top: 10%;
+ 
+} 
+.card{background: linear-gradient(to right,rgb(43, 255, 0),rgb(225, 255, 0));
+   
+  
+  margin: 10px;
+
+} 
+.card:hover{
+
+  transform: scale(1.05);  } 
+  
