@@ -25,25 +25,25 @@ export const robots = [
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
+    name: ' Dietrich',
     username: 'Kamren',
     email: 'Lucio_Hettinger@annie.ca'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
+    name: 'Mrs. Dennis ',
     username: 'Leopoldo_Corkery',
     email: 'Karley_Dach@jasper.info'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
+    name: 'Kurtis ',
     username: 'Elwyn.Skiles',
     email: 'Telly.Hoeger@billy.biz'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Nicholas ',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },

@@ -2,8 +2,8 @@ import React from 'react'
 
  const R2 = ({name,email,id}) => {
   return (
-    <div className='tc bg-light-green dib br3 pa3 ma2 grow'>
-         <img alt='noimage'  src={`https://robohash.org/${id}?200x200`}/>
+    <div className='tc bg-light-green dib br1 pa ma2 grow  shadow-5'>
+         <img alt='noimage'  src={`https://robohash.org/${id}?100X100`}/>
 
         <div>
                 <h2> {name}</h2>
