@@ -2,7 +2,7 @@ import React from 'react'
 
  const R2 = ({name,email,id}) => {
   return (
-    <div className='tc bg-light-green dib br1 pa ma2 grow  shadow-5'>
+    <div className='tc bg-light-green dib br1 pa ma2 grow  shadow-2'>
          <img alt='noimage'  src={`https://robohash.org/${id}?100X100`}/>
 
         <div>
