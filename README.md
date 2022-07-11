@@ -1,6 +1,6 @@
 # Getting Started with Create React App 
 
- check my project through this link : https://vineethkumar12.github.io/Robots/
+ check my application through this link : https://vineethkumar12.github.io/Robots/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
